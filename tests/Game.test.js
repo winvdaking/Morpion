@@ -1,5 +1,5 @@
-import Game from '../src/class/Game.js';
-import Board from '../src/class/Board.js';
+import Game from '../src/class/Game';
+import Board from '../src/class/Board';
 
 describe('Board', () => {
     let board;
